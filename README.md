@@ -1,3 +1,4 @@
-- 👋 olá meu nome é @lufe007
-- 👀 eu estou interessado em criar e modificar codigos- 
--    eu aprendi recentemente a mexer com codigos no Scratch e Javascript
+- olá meu nome é @lufe007
+- eu estou interessado em criar e modificar codigos- 
+- eu aprendi recentemente a mexer com codigos no Scratch e Javascript
+- ![texto](link da imagem) ou <a href=””><img src=”link da imagem”></img></a>
